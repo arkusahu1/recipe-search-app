@@ -1,0 +1,15 @@
+.filterCintainer {
+    width: 20%;
+    background-color: #fff;
+}
+
+.filterText {
+    font-size: 1.3rem;
+    padding: 15px;
+    border-bottom: solid 1px #ddd;
+}
+
+.filterItem {
+    padding: 15px;
+    border-bottom: solid 1px #ddd;
+}

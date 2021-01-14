@@ -1,0 +1,8 @@
+.SearchCheckBoxContainer {
+    display: flex;
+    align-items: center;
+}
+
+.SearchCheckBox_input {
+    margin: 5px 10px;
+}
